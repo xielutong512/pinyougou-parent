@@ -39,7 +39,7 @@
     <property name="user.timezone" value="Asia/Shanghai"/>
     <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
     <property name="java.specification.version" value="1.8"/>
-    <property name="file.encoding" value="UTF-8"/>
+    <property name="file.encoding" value="GB2312"/>
     <property name="user.name" value="Administrator"/>
     <property name="java.class.path" value="D:\IntelliJ-IDEA\plugins\maven\lib\maven3\boot\plexus-classworlds-2.5.2.jar;D:\IntelliJ-IDEA\lib\idea_rt.jar"/>
     <property name="java.vm.specification.version" value="1.8"/>
