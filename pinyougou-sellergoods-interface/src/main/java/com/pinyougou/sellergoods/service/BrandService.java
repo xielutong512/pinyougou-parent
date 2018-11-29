@@ -22,7 +22,7 @@ public interface BrandService {
 	 * @param pageSize 每页记录数
 	 * @return
 	 */
-	public PageResult findPage(int pageNum,int pageSize);
+	public PageResult findPage(int pageNum, int pageSize);
 
 	/**
 	 * 增加
@@ -55,5 +55,5 @@ public interface BrandService {
 	 * @param pageSize 每页记录数
 	 * @return
 	 */
-	public PageResult findPage(TbBrand brand,int pageNum,int pageSize);
+	public PageResult findPage(TbBrand brand, int pageNum, int pageSize);
 }
